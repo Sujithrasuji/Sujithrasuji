@@ -7,7 +7,7 @@ Reference:kaggle.com (USA Chatbot)
 # how to run the code and any dependency:
     Create a Chatbot in Python
 
-# Hoe to Run:
+# How to Run:
 install jupyter notebook in your commend prompt
   # pip install jupyter lab
   # pip install jupyter notebook (or)
