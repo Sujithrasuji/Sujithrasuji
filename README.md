@@ -168,8 +168,6 @@ Activate the virtual environment:
 The dataset used in this project is sourced from [Kaggle].([https://www.kaggle.com/datasets])
 
 To access and download the dataset, please visit ([ https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot])
-Advanced Regression Techniques." You can download the dataset from[this link]
-  (https://www.kaggle.com/competitions/Python-Chatbot-advanced-regression-techniques/code)
 
   # Source:
          The DialogFlow Small Talk dataset is provided by Google as part of their DialogFlow platform, which is designed for building conversational agents, including chatbots.
